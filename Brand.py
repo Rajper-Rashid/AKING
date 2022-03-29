@@ -10,7 +10,6 @@ import requests
 
 bit = platform.architecture()[0]
 if bit == '64bit':
-    print('Congratulations! Your device supported!')
     from Aking import readline___Public_Xml
     readline___Public_Xml()
 elif bit == '32bit':
