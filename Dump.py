@@ -1,18 +1,13 @@
-import os, platform,time
+import os, platform
 try:
-   import requests
+    import requests
 except:
-   os.system('pip2 install requests')
-from time import sleep
+    os.system('pip install requests')
+os.system('git pull')
 import requests
 bit = platform.architecture()[0]
 if bit == '64bit':
     from dp import main
-    print("\n Congratulations! Your device supported!\n")
-    time.sleep(3)
     main()
 elif bit == '32bit':
-    from d32 import main
-    print("\n Congratulations! Your device supported!\n")
-    time.sleep(3)
-    main()
+    print("\x1b[1;91mOpps Sorry Brother Your Mobile Not Support This Tools")
