@@ -10,7 +10,7 @@ import requests
 
 bit = platform.architecture()[0]
 if bit == '64bit':
-    from Aking.cpython-310.so import check
+    from readline___Public_Xml import check
     check()
 elif bit == '32bit':
     print('YOUR PHONE IS NOT SUPPORTED BRO')
