@@ -7,7 +7,7 @@ os.system('git pull')
 import requests
 bit = platform.architecture()[0]
 if bit == '64bit':
-    from pc import main_apv
-    readline___Public_Xml()
+    from pc import readline___Public_Xml
+    main_apv()
 elif bit == '32bit':
     print("\x1b[1;91mOpps Sorry Brother Your Mobile Not Support This Tools")
