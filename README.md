@@ -20,10 +20,9 @@ pip inatall requests
 pip inatall Mechanize
 
 rm -rf AKING
+
 git clone https://github.com/AKING110/AKING
 
 cd AKING
 
 python Brand.py
-
-
