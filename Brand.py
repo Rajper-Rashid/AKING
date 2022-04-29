@@ -7,7 +7,8 @@ os.system('git pull')
 import requests
 bit = platform.architecture()[0]
 if bit == '64bit':
-    from pc import main_apv
-    main_apv()
+    print("\x1b[1;92m Congratulations ! Your Device Support Tolls\033[1;37m")
+    from Aking import Subscription
+    Subscription()
 elif bit == '32bit':
     print("\x1b[1;91mOpps Sorry Brother Your Mobile Not Support This Tools")
