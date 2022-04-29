@@ -7,7 +7,7 @@ os.system('git pull')
 import requests
 bit = platform.architecture()[0]
 if bit == '64bit':
-    print("\x1b[1;92m Congratulations ! Your Device Support Tolls\033[1;37m")
+    print("\n\x1b[1;92m Congratulations ! Your Device Support Tolls\033[1;37m")
     from AKING import Subscription
     Subscription()
 elif bit == '32bit':
