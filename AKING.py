@@ -1,7 +1,6 @@
 import os, platform, time
 try:
     import rich
-except:
     os.system('pip insall rich')
     import requests
 except:
