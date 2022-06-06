@@ -1,33 +1,31 @@
-# AKING PAID TOLLS
+<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-Mr.AKING-dimgray?style=flat-square&logo=github)](https://github.com/AKING110)<br> [![Facebook](https://img.shields.io/badge/Facebook-AKING-blue?style=flat-square&logo=facebook)](https://www.facebook.com/Imtiaz.Aking.07)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-AKING-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923237528063)
 
-AKING PAID TOOLS
 
-AKING PAID TOOLS UPDATE DONE ❤🥀
 
-PAID TOOLS 350 1 MONTH
+<h1 align="center"> [MR.AKING]</h1>
 
-pkg update
+<h2 align="center">  FB CLONING TOOL </h2>
 
-pkg upgrade
 
-pkg install python -y
+## <b>installation</b>
 
-pkg install python2 
+🔰 _CLONE FULL OK IDZ_ 🔰
+👇
+- `pkg update`
+- `pkg upgrade`
+- `pkg install git`
+- `pkg install python`
+- `pkg install python2`
+- `pip install requests`
+- `pip install mechanize`
+- `pip install lolcat`
+- `pip install bs4`
+- `rm -rf AKING`
+- `git clone https://github.com/AKING110/AKING.git`
+- `cd AKING`
+- `python AKING.py`
+     
 
-pkg inatall git
 
-pip inatall requests
-
-pip inatall Mechanize
-
-pip install bs4
-
-#Run
-
-rm -rf AKING
-
-git clone https://github.com/AKING110/AKING
-
-cd AKING
-
-python AKING.py
+ ```Note : This Tools is Paid ```</br>
+ [![Whatsapp](https://img.shields.io/badge/Whatsapp-AKING-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923237528063)
