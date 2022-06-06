@@ -1,7 +1,5 @@
 import os, platform, time
 try:
-    import rich
-    os.system('pip insall rich')
     import requests
 except:
     os.system('pip install requests')
