@@ -10,9 +10,6 @@
 ## <b>installation</b>
 
 🔰 _CLONE FULL OK IDZ_ 🔰
-- `AKING PAID TOOLS UPDATE DONE`
-- `VIP LUSH SPEED FILE CLONING`
-- `Note : Paid Tools`
 
 - `pkg update`
 - `pkg upgrade`
