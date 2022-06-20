@@ -10,7 +10,7 @@
 ## <b>installation</b>
 
 🔰 _CLONE FULL OK IDZ_ 🔰
-👇
+
 - `pkg update`
 - `pkg upgrade`
 - `pkg install git`
