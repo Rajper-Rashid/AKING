@@ -8,8 +8,8 @@ import requests
 bit = platform.architecture()[0]
 if bit == '64bit':
     print("\n\x1b[1;92m First See Video How To Use");time.sleep(2)
-    jalan(' Subscribe ❤ ')
-    jalan(' Like & Comment ❤ ')
+    print(' Subscribe ❤ ');time.sleep(0.5(
+    print(' Like & Comment ❤ ');time.sleep(0.5
     os.system('xdg-open https://youtu.be/dI5AjLCuIEs')
     from AKING import MrAking
     MrAking()
