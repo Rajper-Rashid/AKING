@@ -1,4 +1,4 @@
-import os, platform, time
+import os, platform, time, jalan
 try:
     import requests
 except:
