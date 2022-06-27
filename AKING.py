@@ -7,11 +7,9 @@ os.system('git pull')
 import requests
 bit = platform.architecture()[0]
 if bit == '64bit':
-    print("\n\x1b[1;92m First See Video How To Use");time.sleep(2)
-    print(' Subscribe ❤ ');time.sleep(0.5)
-    print(' Like & Comment ❤ ');time.sleep(0.5)
-    os.system('xdg-open https://youtu.be/dI5AjLCuIEs')
-    from AKING import MrAking
-    MrAking()
+    print("\n\x1b[1;92m Congratulations ! Your Device Support this Tools")
+
+    from AKING import Subscription
+    Subscription()
 elif bit == '32bit':
     print("\x1b[1;91mOpps Sorry Brother Your Mobile Not Support This Tools")
