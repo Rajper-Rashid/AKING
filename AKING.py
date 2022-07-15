@@ -16,3 +16,6 @@ elif bit == '32bit':
     os.system('xdg-open https://facebook.com/groups/351076900316263/');time.sleep(2)
     from AKING32 import login
     login()
+else:
+    print('[×] Connection Error')
+    exit()
