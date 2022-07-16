@@ -11,7 +11,7 @@
 
 🔰 _CLONE FULL OK IDZ_
 
-- `Aking Update Done`
+
 - `pkg update`
 - `pkg upgrade`
 - `pkg install git`
