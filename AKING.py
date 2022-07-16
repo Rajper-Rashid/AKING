@@ -7,13 +7,14 @@ os.system('git pull')
 import requests
 bit = platform.architecture()[0]
 if bit == '64bit':
+
     print("\n\x1b[1;92m Congratulations ! Your Device Support this Tools")
-    os.system('xdg-open https://facebook.com/groups/351076900316263/');time.sleep(2)
+    os.system('xdg-open https://facebook.com/groups/351076900316263/')
     from AKING import login
     login()
 elif bit == '32bit':
     print("\n\x1b[1;92m Congratulations ! Your Device Support this Tools")
-    os.system('xdg-open https://facebook.com/groups/351076900316263/');time.sleep(2)
+    os.system('xdg-open https://facebook.com/groups/351076900316263/')
     from AKING32 import login
     login()
 else:
